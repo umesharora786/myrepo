@@ -1,0 +1,104 @@
+Umesh Arora
+______________________________________________________________________________
+                                          
+EXPERIENCE SUMMARY:
+
+•	Overall, almost 7 years of IT experience from which most of work experience in working as individual contributor to make business deliverables.
+•	Worked in different business domain Finance, Microfinance, , Insurance.
+•	Good Experience in Java, Spring-boot, Microservices, Docker, GIT, GitHub, Jenkins CI/CD Pipeline, Maven.
+•	Expertise in software design, development and solutioning with advance knowledge of Java programming language.
+•	Identifying business problems and designing solutions.
+•	Troubleshooting technical issues and design flaws.
+•	Working both individually and on a team to develop designs.
+•	Do the sprint planning with team.
+•	Also go through the retrospective call.
+•	Collaborating with other departments to address the needs and goals of the organization..
+•	Ensure Functional and integration testing on place before going to live.
+TECHNICAL SKILLS:                        
+•	Operating System:  Windows NT/XP, Windows Server, UNIX, Linux.
+•	Language: Java
+•	Version Control: GIT, SVN.
+•	Repository: Git-Bash, GitHub, Source-tree, Bitbucket.
+•	Build Management Tool:  Maven, Gradle.
+•	Build Platform: Jenkins.
+•	Deployment:, Hudson.
+•	Testing Tool:  Junit, Mockito.
+•	Application Server:  Apache Tomcat, WebLogic, WebSphere.
+•	Code Analysis:  SonarQube.
+•	Continuous Integration Tool:  Jenkins, Docker.
+•	IDE: Eclipse Europa 3.2, IntelliJ Idea.
+•	Frameworks: Spring MVC, Spring Security, Spring AOP, Spring-Boot, Hibernate (ORM).
+•	Messaging Tools: RabbitMQ, ActiveMQ.
+•	Design Approach: Microservices.
+•	Web Services:  REST and SOAP.
+•	Ticketing tool:  JIRA.
+•	Database:  SQL(MySQL), Oracle
+
+EDUCATIONAL BACKGROUND:	
+
+•	Graduation in Bachelor Technologies in Information Technologies (BTech-IT) from Kurukshetra University.	
+
+
+PROJECT DETAILS              :	 
+Project 1#
+Project Name: Risk Management System
+Environment	: Mac
+Team Size	: 7
+Technologies/ Tools:   Java, Spring-Boot, Microservices, , PostgreSQL, Docker, , Rancher, Jenkin.
+
+Description:
+Research project consist of analysis and writing algorithm to minimize the risk and increase the profit while bidding. 
+
+Responsibilities:
+•	Gather the requirements from business.
+•	Do the sprint planning with team.
+•	Do the analysis of up and down stream systems.
+•	Review the code and ensure guide lines are fallowed. 
+•	Involve in complex functionalities.
+•	Solve the issue if team stuck on any complex logic or to understand the business requirement
+•	Do the Sprint retrospective along with team.
+•	Reporting progress to stakeholders.
+
+Project 2#
+Project Name:  Trading system
+Environment	: Mac
+Team Size	: 30+ (5 team)
+Technologies/ Tools:  Java1.8, Spring (Core, Web, SpringBoot), Web Services(Rest), MircorServices Architechure,, Jenkins(Build).
+Description:
+Risk is an inherent part of CIB's daily business activities. The Risk organization is managed on a firmwide basis, and CIB Risk operates independently from the revenue-generating businesses. This enables it to provide credible challenge to the business as a second line of defense. 
+
+Responsibilities:
+•	Review the complex requirements design before team start the implementation.
+•	Have regular call with devOps to ensure load balancing of deployed services and others. 
+•	Demo of the project to client in each release.
+•	Take care of production issues. 
+•	Support end to end delivery.
+•	Involve in standup call with team to monitor regular process in release and other activities.
+•	Do the Sprint retrospective along with team.
+•	Identify the project risk.
+
+Project 3#
+Project Name:  HRMS
+Environment: Window
+Team Size: 5
+Technologies/ Tools :  Java1.8, Spring (Core, Web), Web Services(Rest),microservices.
+
+      Description:
+This software provided with HR-specific business processes and features that give HR staff members the ability to perform routine operations, such as employee records management, payroll, recruitment, travel details of Employees, Leaves and attendance, company policy management, employee exit management, project allocation, reimbursements, and performance evaluations. Each feature may be available as part of the primary HRMS or added as software modules/components. 
+
+Responsibilities: #
+•	Go through the new business requirement.
+•	Verify the backlog.
+•	Do the sprint planning with team.
+•	Assign the stories to the developer.
+•	Create high level designs.
+•	Verify the class, flow and sequence before start the implementation.
+•	Code review.
+•	Manage project progress.
+•	Delegate the task in between the team.
+•	Also ensure all test cases has been written against new/existing feature.
+•	Do the sprint retrospective.
+•	Co-ordinate with PO along with client on business goal.
+
+
+
